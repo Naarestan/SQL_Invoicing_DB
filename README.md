@@ -4,8 +4,8 @@
 
 ### We summerized data using:
                         - Aggregate Functions
-                        - GROUP BY clauses
-                        - HAVING clauses
-                        - ROLLUP operator
+                        - GROUP BY Clauses
+                        - HAVING Clauses
+                        - ROLLUP Operator
 
 ![SQL Icon](https://github.com/Naarestan/SQL_Invoicing_DB/blob/main/sql.png)

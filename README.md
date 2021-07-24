@@ -1,4 +1,4 @@
-# SQL Invoicing DB
+# SQL Invoicing & Store Databases
 
 ### Objective: To write SQL queries to create tables out of 'invoicing' dataset, mostly for year 2019.
 

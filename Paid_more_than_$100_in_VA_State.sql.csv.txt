@@ -1,0 +1,4 @@
+Payment_method	Total
+Cash	10.00
+Credit Card	351.38
+NULL	361.38

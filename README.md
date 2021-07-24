@@ -11,4 +11,4 @@
 ![SQL Icon](https://github.com/Naarestan/SQL_Invoicing_DB/blob/main/sql.png)
 
 
-![Invoicing_Paid_more](https://github.com/Naarestan/SQL_Invoicing_DB/blob/main/Paid_more_than_%24100_in_VA_State.sql.csv)
+![Table](https://github.com/Naarestan/SQL_Invoicing_DB/blob/main/Paid_more_than_%24100_in_VA_State.sql.csv)

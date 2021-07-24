@@ -2,7 +2,7 @@
 
 ## Objective: To write SQL queries to create tables out of 'invoicing' dataset, mostly for year 2019.
 
-  We summerized data using:
+### We summerized data using:
                         - Aggregate Functions
                         - GROUP BY clauses
                         - HAVING clauses

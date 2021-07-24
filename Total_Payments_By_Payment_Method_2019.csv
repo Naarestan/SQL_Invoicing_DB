@@ -1,8 +1,8 @@
-Date;Payment_Method;Total_payments
-2019-01-03;"Credit Card";74.55
-2019-01-08;Cash;10.00
-2019-01-08;"Credit Card";32.77
-2019-01-11;"Credit Card";0.03
-2019-01-15;"Credit Card";148.41
-2019-01-26;"Credit Card";87.44
-2019-02-12;"Credit Card";8.18
+Date,Payment_Method,Total_payments
+2019-01-03,"Credit Card",74.55
+2019-01-08,Cash,10.00
+2019-01-08,"Credit Card",32.77
+2019-01-11,"Credit Card",0.03
+2019-01-15,"Credit Card",148.41
+2019-01-26,"Credit Card",87.44
+2019-02-12,"Credit Card",8.18
